@@ -1,6 +1,6 @@
 # Regular Expression Patterns
 
-Regex Patterns is a curated catalog of regular expression patterns for everyone to get started on RegEx snippets that can be quickly exported into a variety of programming languages.
+RegEx Patterns is a curated catalog of regular expression patterns for everyone to get started on RegEx snippets that can be quickly exported into a variety of programming languages.
 
 Languages
 ---
